@@ -1,2 +1,2 @@
-# company-intrduce
+# company-introduce
 This is company introduce
